@@ -1,0 +1,4 @@
+pyscreenshot == 2.3
+opencv-python
+pytesseract == 0.3.7
+pynput == 1.7.2
